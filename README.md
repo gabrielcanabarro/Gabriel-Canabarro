@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gabrielpcana@gmail.com**
 
-- 📄 Know about my experiences [I'm seeking for my first professional experience in technology](I'm seeking for my first professional experience in technology)
+- 📄 Know about my experiences **I'm seeking for my first professional experience in technology**
 
 - ⚡ Fun fact **I love to practice CrossFit!!**
 
