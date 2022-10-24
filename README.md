@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcanabarro&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcanabarro" /> </p>
 
-- 🔭 I’m currently working on **building RESTFUL API'S**
+- 🔭 I’m currently working on **RESTFUL API'S**
 
-- 🌱 I’m currently learning **Java, Spring Boot, Python and Django**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
 - 📫 How to reach me **gabrielpcana@gmail.com**
 
