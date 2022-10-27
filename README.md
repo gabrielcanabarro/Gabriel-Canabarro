@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Canabarro</h1>
-<h3 align="center">A passionate backend developer and data scientist from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcanabarro&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcanabarro" /> </p>
 
-- 🔭 I’m currently working on **RESTFUL API'S**
+- 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
